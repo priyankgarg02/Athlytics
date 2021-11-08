@@ -21,8 +21,7 @@ Athlytics Is a role-based web app program made for a  reliable method for coache
 * slack for communication and file sharing 
 * Version control: Github
 * Sprint management and board: github projects
-* Private repository- waiting to be public ( PUBLIC NOW!)
-
+* Public repository- 
 
 ## Deployment
 
@@ -60,10 +59,4 @@ Athlytics Is a role-based web app program made for a  reliable method for coache
 ![Screenshot](/src/img/sc3.png)
 
 
-#### Authors: Pentagummies
-The development team consisted of 5
-* Marouen helail– Team leader,  and functionality programmer, authentication
-* Alexandru andrei – the main database programmer, and functionality programmer 
-* Tudor Ghenea – mitigating between client and team, home page GUI programmer, and tester
-* Jinting Liu – Documentation, minor gui, in charge of presentations/interactive prototypes
-* Adam Ebel – mitigating between team and management, calendar functionality programing, main tester, documentation, Organizer, presentation creationist
+#### Authors: Priyank Garg
